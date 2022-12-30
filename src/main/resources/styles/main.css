@@ -1,0 +1,19 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 1 Dec 2022, 10:18:05 pm
+    Author     : maxhaggkvist
+*/
+* {
+   -fx-font-family: 'serif';
+}
+
+#root {
+    /*
+    -fx-background-color: linear-gradient(#0D0A0B, #161A1D);
+    */
+    -fx-background-repeat: no-repeat;
+    -fx-background-attachment: fixed;
+}
